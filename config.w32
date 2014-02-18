@@ -1,0 +1,13 @@
+// $Id$
+// vim:ft=javascript
+
+// If your extension references something external, use ARG_WITH
+// ARG_WITH("rdfunc", "for rdfunc support", "no");
+
+// Otherwise, use ARG_ENABLE
+// ARG_ENABLE("rdfunc", "enable rdfunc support", "no");
+
+if (PHP_RDFUNC != "no") {
+	EXTENSION("rdfunc", "rdfunc.c");
+}
+

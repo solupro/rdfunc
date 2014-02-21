@@ -46,4 +46,7 @@ Warning: rdfunc: str_replace has been disabled! (°Д°≡°д°)ｴｯ!? in /Us
 array(3) { [0]=> int(1) [1]=> int(2) [2]=> int(3) } NULL
 ```
 
+#### Blog (in Chinese)
+
+- <http://my.oschina.net/s01u/blog/107911>
 
